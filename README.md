@@ -1,8 +1,13 @@
+
+<h1 align="stsrt">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2300&pause=900&color=FF6F3C&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Niraj!" alt="Typing SVG" />
+</h1>
 <div align="center">
 
-# Hi there 👋, I'm Niraj
-### Flutter developer building backend skills.
+![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
+
+### About Me
 🔭 Currently working on **[Lorebound](https://github.com/TheNirajMahale/Lorebound)** <br>
 🤔 Looking for advice and suggestions related to **Spring Boot** and **Flutter** <br>
 ⚡ Fun fact: I actually enjoy reading webnovels — that's why I'm building LoreKeeper <br>
