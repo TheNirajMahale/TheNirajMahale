@@ -20,8 +20,8 @@
 ### Projects
 | Project | Description | Tech |
 |---|---|---|
-| [LoreKeeper](https://github.com/TheNirajMahale/LoreKeeper) | Book/comic tracker backend with JWT + Google OAuth and Open Library integration | Spring Boot · PostgreSQL |
-| [Runeglass](https://github.com/TheNirajMahale/Runeglass) | Rule-based adaptive reading highlighter | Spring Boot |
+| [LoreKeeper](https://github.com/TheNirajMahale/loreKeeper-api) | Book/comic tracker backend with JWT + Google OAuth and Open Library integration | Spring Boot · PostgreSQL |
+| [Runeglass](https://github.com/TheNirajMahale/lorekeeper-api/tree/main/src/main/java/com/lorekeeper/lorekeeper_api/runeglass) | Rule-based adaptive reading highlighter | Spring Boot |
 | [Lorebound](https://github.com/TheNirajMahale/Lorebound) | EPUB/PDF reader app, in progress | Flutter |
 
 ---
