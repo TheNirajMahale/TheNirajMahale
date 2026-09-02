@@ -27,8 +27,8 @@
 | Project | Description | Tech |
 |---|---|---|
 | [LoreKeeper](https://github.com/TheNirajMahale/loreKeeper-api) | Book/comic tracker backend with JWT + Google OAuth and Open Library integration | Spring Boot · PostgreSQL |
-| [AI Chess Arena](https://github.com/TheNirajMahale/AI-Chess-Arena) | Watch frontier AI models (Claude, GPT, Gemini, DeepSeek) play chess against each other with live streamed reasoning | FastAPI · Flutter · WebSocket |
-| [Lorebound](https://github.com/TheNirajMahale/Lorebound) | EPUB/PDF reader app, in progress | Flutter |
+| [AI Chess Arena](https://github.com/TheNirajMahale/AI-Chess-Arena) | Platform where frontier AI models play chess against each other, in progress | FastAPI · Flutter · WebSocket |
+| [Lorebound](https://github.com/TheNirajMahale/Lorebound) | Offline-first EPUB reader app with a custom native render engine, in progress | Flutter |
 
 ---
 
