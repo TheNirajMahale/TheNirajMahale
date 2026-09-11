@@ -1,3 +1,4 @@
+
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2300&pause=900&color=FF6F3C&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Niraj!" alt="Typing SVG" />
 </h1>
@@ -6,21 +7,33 @@
 
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
-### About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>
+  &nbsp;About Me
+</h2>
+
+</div>
+
 🔭 Currently working on **[Lorebound](https://github.com/TheNirajMahale/Lorebound)** <br>
 🤔 Looking for advice and suggestions related to **Spring Boot** and **Flutter** <br>
 ⚡ Fun fact: I actually enjoy reading webnovels — that's why I'm building LoreKeeper <br>
 📫 Reach me: **nirajmahale2002@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Tech Stack
+<div align="center">
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;<b><i>Tech Stack</i></b>
+
+</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,dart,flutter,git,docker" alt="My Tech Stack" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Projects
 
@@ -30,7 +43,9 @@
 | [AI Chess Arena](https://github.com/TheNirajMahale/AI-Chess-Arena) | Platform where frontier AI models play chess against each other, in progress | FastAPI · Flutter · WebSocket |
 | [Lorebound](https://github.com/TheNirajMahale/Lorebound) | Offline-first EPUB reader app with a custom native render engine, in progress | Flutter |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
 
 ### Connect with me
 
