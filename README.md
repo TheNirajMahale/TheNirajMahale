@@ -5,25 +5,16 @@
 
 <div align="center">
 
-![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>
   &nbsp;About Me
 </h2>
-
-</div>
 
 🔭 Currently working on **[Lorebound](https://github.com/TheNirajMahale/Lorebound)** <br>
 🤔 Looking for advice and suggestions related to **Spring Boot** and **Flutter** <br>
 ⚡ Fun fact: I actually enjoy reading webnovels — that's why I'm building LoreKeeper <br>
 📫 Reach me: **nirajmahale2002@gmail.com**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;<b><i>Tech Stack</i></b>
 
@@ -32,8 +23,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,dart,flutter,git,docker" alt="My Tech Stack" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Projects
 
