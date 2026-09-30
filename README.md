@@ -1,30 +1,31 @@
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2300&pause=900&color=FF6F3C&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Niraj!" alt="Typing SVG" />
-</h1>
-
 <div align="center">
 
-<h2>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>
-  &nbsp;About Me
-</h2>
+### About Me
 
-🔭 Currently working on **[Lorebound](https://github.com/TheNirajMahale/Lorebound)** <br>
-🤔 Looking for advice and suggestions related to **Spring Boot** and **Flutter** <br>
-⚡ Fun fact: I actually enjoy reading webnovels — that's why I'm building LoreKeeper <br>
-📫 Reach me: **nirajmahale2002@gmail.com**
+👋 Hey, I'm Niraj!
 
+🔭 Right now I'm building [Lorebound](https://github.com/TheNirajMahale/Lorebound)
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp;<b><i>Tech Stack</i></b>
+🤔 Always up for advice and ideas, so if you've got tips, I'd love to hear them
 
-</div>
+⚡ Fun fact: I'm a big webnovel reader, which is exactly why I'm building LoreKeeper
+
+📫 Say hi anytime: [nirajmahale2002@gmail.com](mailto:nirajmahale2002@gmail.com)
+
+---
+
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,dart,flutter,git,docker" alt="My Tech Stack" />
 </p>
 
+---
+
 ### Projects
+
+</div>
+
 
 | Project | Description | Tech |
 |---|---|---|
@@ -33,10 +34,15 @@
 | [Lorebound](https://github.com/TheNirajMahale/Lorebound) | Offline-first EPUB reader app with a custom native render engine, in progress | Flutter |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align="center">
 
-### Connect with me
+### Let's Connect
+
+[nirajmahale2002@gmail.com](mailto:nirajmahale2002@gmail.com)
+
+If you're working on something cool and could use an extra pair of hands,<br>
+need another perspective, or just want to talk,<br>
+drop a message. I'll actually reply. 😄
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheNirajMahale)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirajmahale/)
