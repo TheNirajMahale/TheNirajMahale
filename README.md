@@ -1,5 +1,7 @@
 <div align="center">
 
+---
+
 ### About Me
 
 👋 Hey, I'm Niraj!
